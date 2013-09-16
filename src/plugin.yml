@@ -1,0 +1,14 @@
+name: WillOWisp
+main: net.drepic.willowisp.willowisp
+version: 0.1
+author: Drepic26
+
+commands:
+  creep:
+    description: "spawn creep"
+    usage: "creep"
+	
+permissions:
+  willowisp.spawn:
+    description: Allows you to spawn a wisp
+	default: op
